@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OfficeMetaXTRACT", "OfficeMetaXTRACT\OfficeMetaXTRACT.vbproj", "{F96BAAD1-DB70-432B-89FC-F481AC9C132A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F96BAAD1-DB70-432B-89FC-F481AC9C132A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96BAAD1-DB70-432B-89FC-F481AC9C132A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96BAAD1-DB70-432B-89FC-F481AC9C132A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96BAAD1-DB70-432B-89FC-F481AC9C132A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A27725A-1AE8-4271-9386-9115CC54D77E}
+	EndGlobalSection
+EndGlobal
